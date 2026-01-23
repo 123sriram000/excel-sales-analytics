@@ -4,7 +4,7 @@ A full‑cycle Excel sales analysis that transforms raw data into insights with 
 **Sales Report**
 **Project Objectives**
 
-Develop a comprehensive Customer Performance Report ( to evaluate individual and overall customer contributions.
+Develop a https://github.com/123sriram000/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf to evaluate individual and overall customer contributions.
 
 Perform an in-depth comparison between Market Performance and Sales Targets to assess target achievement and gaps.
 
